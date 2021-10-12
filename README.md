@@ -4,5 +4,5 @@
 
 Ovjde će se nalaziti HTML/CSS, možda i Javascript koji čini moju web stranicu.
 
-Adresa moje osobne web stranice: https://filipslavic.github.io
+Adresa moje osobne web stranice: https://FilipSlavic5.github.io
 
