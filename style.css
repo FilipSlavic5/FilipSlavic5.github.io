@@ -54,7 +54,7 @@ body {
   padding: 60px;
   font-size: 30px;
   opacity: 0.9;
-  transition-duration: 1s;
+  transition-duration: 0.9s;
 }
 
 .centered:hover {
